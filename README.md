@@ -1,4 +1,4 @@
- # Foogle- The Most Unique Search Engine in the World
+ # Go-search The Most Unique Search Engine in the World
 
 ## Light theme
 ![Light theme search feed](https://i.ibb.co/nwdzVXH/lighthome.png)
